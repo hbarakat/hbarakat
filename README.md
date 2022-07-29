@@ -61,10 +61,12 @@
 </div>
 <div>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbarakat&show_icons=true&hide=stars,prs,contribs&count_private=true)  
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbarakat&layout=compact&langs_count=10&count_private=true)](https://github.com/hbarakat/github-readme-stats)
+ 
+	
+ <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=hbarakat&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=stars,prs,contribs&count_private=true" alt="Hamid's github stats" /></a>  <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbarakat&layout=compact&theme=buefy&hide_border=true&count_private=true" /></a> 
 
+	
+	
 </div>
   
 <h3 style="margin-top:30px">Contact Me</h3>
