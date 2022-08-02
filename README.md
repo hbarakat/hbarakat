@@ -65,7 +65,7 @@
 	
 | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=hbarakat&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=stars,prs,contribs&count_private=true" alt="Hamid's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbarakat&layout=compact&theme=buefy&hide_border=true&count_private=true" /></a> |
 	
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hbarakat&theme=gruvbox_duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hbarakat&theme=gruvbox_duo)](https://github.com/hbarakat/)
 	
 	
 </div>
